@@ -27,3 +27,9 @@ following structure:
 
 - **Limitiation** - provide a list of issues, limitations, restriction
   and/or hurdles.
+
+
+# Index
+
+- this is a placemarker for a exploration. Please replace with a
+  (brief) exploration title, author and last update date.
