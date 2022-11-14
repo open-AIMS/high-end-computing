@@ -43,10 +43,10 @@ verbatim text
 
 Opening instructions end here
 
-* Overview
+# Overview
 
-* Dependencies
+# Dependencies
 
-* Approach
+# Approach
 
-* Limitations
+# Limitations
