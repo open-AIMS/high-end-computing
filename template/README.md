@@ -1,4 +1,4 @@
-** This is a template from which to build explorations ** Please
+This is a template from which to build explorations. Please
 remove these opening instructions and populate the sections below.
 For those less familiar with markdown, the following might help
 
@@ -41,6 +41,7 @@ verbatim text
 
 - images can be embedded as `![](<image path>)`
 
+Opening instructions end here
 
 * Overview
 
