@@ -28,6 +28,11 @@ following structure:
 - **Limitiation** - provide a list of issues, limitations, restriction
   and/or hurdles.
 
+**As this is a publically available repository, please do not include 
+any sensitive information such as ports, hostsnames, ip addresses etc**.  
+Instead, please include either a link to an internal ICT Knowledgebase 
+article or details on how the information can be gleaned from your 
+machine.
 
 # Index
 
